@@ -1,0 +1,4 @@
+# Liste blanche des clés Poker Spin Trainer (empreintes, une par ligne, aucun prénom).
+# Tant que la ligne ci-dessous commence par « # », la liste blanche est ARRÊTÉE : toutes les clés valides marchent.
+# Pour l'activer le jour du lancement, enlève le « # » devant « mode: actif ».
+# mode: actif
