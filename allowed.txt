@@ -2,3 +2,4 @@
 # Tant que la ligne ci-dessous commence par « # », la liste blanche est ARRÊTÉE : toutes les clés valides marchent.
 # Pour l'activer le jour du lancement, enlève le « # » devant « mode: actif ».
 # mode: actif
+2qhs446ic
